@@ -1,4 +1,4 @@
-
+#Program that splits bills
 users = int(input("Enter the number of friends joining (including you):")) # people that want to join
 
 dict = {}
