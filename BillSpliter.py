@@ -1,4 +1,4 @@
-#1st Stage, user input, stores users names as dictionaries
+
 users = int(input("Enter the number of friends joining (including you):")) # people that want to join
 
 dict = {}
